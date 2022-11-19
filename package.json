@@ -1,0 +1,17 @@
+{
+  "name": "hotel-moloalterno",
+  "version": "1.0.0",
+  "description": "Hotel de molo corp. #MoloAlterno",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Camilo Gomez -  MoloCorp",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "moongose": "^1.0.0"
+  }
+}
